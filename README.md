@@ -11,7 +11,7 @@
 ---
 
 ## Sobre el instructor  
-Soy analista de datos científicos para el Observatorio Nacional de Radio Astronomía (NRAO) en Charlottesville, Virginia. Saque mi licenciatura y maestría en Física de Texas State University donde investigue una variedad de temas astrofísicas como poblaciones de estrellas jóvenes, fuentes de rayos-X extra-galácticos, radioastronomía de bajo presupuesto, y discos protoplanetarios. Tengo 7 años de experiencia analizando y visualizando datos astrofísicos en Python e instruye tutorías y clases de laboratorio en Física y Astronomía. Además de academia, tengo experiencia en divulgación científica del público y funde el primer club de astronomía de mi universidad. 
+Soy analista de datos científicos para el Observatorio Nacional de Radio Astronomía (NRAO) en Charlottesville, Virginia. Saque mi licenciatura y maestría en Física de Texas State University donde investigue una variedad de temas astrofísicas como poblaciones de estrellas jóvenes, fuentes de rayos-X extra-galácticos, radioastronomía de bajo presupuesto, y discos protoplanetarios. Tengo 7 años de experiencia analizando y visualizando datos astrofísicos en Python e instruye tutorías y clases de laboratorio en Física y Astronomía. 
 
 ---
 
