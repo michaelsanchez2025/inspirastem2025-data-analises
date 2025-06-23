@@ -1,7 +1,7 @@
 <!-- README.md -->
 # InspiraSTEM2025 - Ciencia Computacional y Análisis de Datos 
 
-
+|=|=|
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 | **Fechas** | *Julio 23-25, 2025* |
 | **Instructor** | **Michael Sánchez** — masanche@nrao.edu 
