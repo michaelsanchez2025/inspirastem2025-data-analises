@@ -32,7 +32,7 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 1. Obtener habilidades intuitivas de programación.
 2. Poder generar scripts para interpretar y analizar datos.
 3. Adquirir conocimientos prácticos sobre paquetes de Python.  
-   Adquirir razonamiento programático para resolver problemas complejos.
+4. Adquirir razonamiento programático para resolver problemas complejos.
 
 ---
 
