@@ -1,8 +1,7 @@
 <!-- README.md -->
 # InspiraSTEM2025 - Ciencia Computacional y Análisis de Datos 
 
-| | |
-|---|---|
+
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 | **Fechas** | *Julio 23-25, 2025* |
 | **Instructor** | **Michael Sánchez** — masanche@nrao.edu 
@@ -30,11 +29,10 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 ---
 
 ## Objetivos generales  
-1. Entender como y cuando usar paquetes de Python. 
-2. Desarrollar .  
-3. Emplear integración de Gauss y bases de **Lagrange**.  
-4. Analizar estabilidad y estimar errores numéricos.  
-5. Transferir las técnicas a problemas astrofísicos de mayor complejidad.
+1. Obtener habilidades intuitivas de programación.
+2. Poder generar scripts para interpretar y analizar datos.
+3. Adquirir conocimientos prácticos sobre paquetes de Python.  
+   Adquirir razonamiento programático para resolver problemas complejos.
 
 ---
 
