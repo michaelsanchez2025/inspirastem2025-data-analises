@@ -36,15 +36,25 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ---
 
-## Plan diario y syllabus detallado  
+## Plan diario y syllabus
 
-| Día | Objetivos clave | Contenidos y actividades | Software |
-|-----|-----------------|--------------------------|----------|
-| **1** | • Rol del CFD en ciencia e ingeniería<br>• Generación de cuadrículas<br>• Condiciones iniciales | 1. Presentación del curso<br>2. Proyecto de grupo: *«Agua en un guacal 1-D»*<br>3. **Ejercicio 1** — función Python para generar cuadrículas<br>4. **Ejercicio 2** — codificar condiciones iniciales | Jupyter, NumPy, Matplotlib, IPython |
-| **2** | • Bases de Lagrange y aproximación funcional<br>• Forma débil 1-D<br>• Integración numérica (Gauss) | 1. Galerkin continuo vs discontinuo<br>2. **Ejercicio 3** — polinomio de Lagrange evaluado en *x*<br>3. Forma débil de las ecuaciones<br>4. **Ejercicio 4** — matriz de masa por cuadratura de Gauss | Jupyter, NumPy, Matplotlib |
-| **3** | • Solución temporal con RK4 / Newton<br>• Forma débil completa<br>• Cierre del proyecto | 1. Forma débil (parte II)<br>2. Método de Newton; RK4<br>3. **Ejercicio 5** — implementar Euler o RK4 para la evolución temporal | Jupyter, NumPy, Matplotlib |
+### Día 1: Introducción a la analítica de datos 
+#### Objetivo: Desarrollar un entendimiento básico de conceptos fundamentales de computación
+• Establecer la importancia y ulitidad a los campos de STEM<br>
+• Introducir herramientas y conceptos básicos analíticos 
+• Practicar ejercisios con los paquetes de Python (**pandas, scipy, numpy, matplotlib, statsmodels**)
 
-> **Nota:** Cada día combina micro-exposiciones (~20 min), bloques de codificación supervisada (~90 min) y *debrief* (~30 min).
+### Día 2: Aplicación de principales fundamentales
+#### Objetivo: Navegar y analizar conjuntos de datos
+• Tipos de datos vs. tipos de análisis <br>
+• Aplicaciones a situaciones realísticas <br>
+•   
+
+### Día 3: Implementar soluciones creativas para problemas de STEM
+#### Objetivo: Implementar soluciones creativas para problemas de STEM
+• Rol   <br>
+•  de <br>
+•  Responsabilidades científicos  
 
 ---
 
@@ -52,11 +62,10 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 | Carpeta / archivo | Descripción |
 |-------------------|-------------|
-| `notebooks/` | Cuadernos paso a paso (Día 1-3). |
-| `src/` | Módulos Python del solver DG. |
-| `data/` | Resultados y conjuntos de prueba. |
-| `docs/` | Diapositivas y material de referencia. |
-| `requirements.txt` | Dependencias mínimas. |
+| `notebooks/` | Cuadernos (Día 1-3). |
+| `data/` | Conjuntos de datos. |
+| `docs/` | Material de referencia. |
+| `ejemplos/` | Ejercicios y ejemplos. |
 
 ---
 
@@ -64,13 +73,11 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 | Recurso | Tipo | Enlace |
 |---------|------|--------|
-| **CFD Python** (Lorena Barba) — Lecciones 1-3 | Videos + notebooks | <https://github.com/barbagroup/CFDPython> |
-| Capítulos 1–3 de **«An Introduction to Computational Fluid Dynamics»** (Versteeg & Malalasekera) | PDF/Libro | *[link institucional]* |
+| *Python Cheat Sheet* | PDF | <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf> |
 | Tutorial: **NumPy para científicos** | Notebook | `docs/prework_numpy.ipynb` |
-| Cuaderno interactivo: **Método de Euler y RK4** | Notebook | `docs/prework_rk.ipynb` |
 | Artículo corto: **Discontinuous Galerkin Overview** | PDF | `docs/DG_overview.pdf` |
 
-> **Sugerencia:** Revisa al menos los videos de CFD Python y ejecuta el notebook de NumPy antes del Día 1 para aprovechar al máximo el taller.
+> **Sugerencia:** Revisa al menos materiales de Python.
 
 ---
 
