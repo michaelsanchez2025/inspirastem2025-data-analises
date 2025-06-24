@@ -50,10 +50,10 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 • Maneras de visualizar datos: una comparación<br>
 •	Ejercicios y ejemplos de visualizaciones gráficas<br>
 
-### Día 3: Implementar soluciones creativas para problemas de STEM
-#### Objetivo: Analizar 
-• Mostrar e interpretar resultados de nuestros analices<br>
-• •	Como comunicar resultados (audiencia, en contexto, y sucinto)<br>
+### Día 3: Investigar análisis y interpretar soluciones
+#### Objetivo: Mostrar e interpretar resultados de nuestros analices
+• Como interpretar resultados<br>
+• Como comunicar resultados (audiencia, en contexto, y sucinto)<br>
 •	Discutir implicaciones y responsabilidades en contexto de análisis de datos<br>
 
 ---
