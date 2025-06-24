@@ -4,8 +4,7 @@
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 |------------|---------------------------------------------|
 | **Fechas** | *Julio 23-25, 2025* |
-| **Instructor** | **Michael Sánchez** — masanche@nrao.edu 
-| **Bio** | *[Completar]* |
+| **Instructor** | **Michael Sánchez** — masanche@nrao.edu |
 
 ---
 
@@ -41,20 +40,21 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 ### Día 1: Introducción a la analítica de datos 
 #### Objetivo: Desarrollar un entendimiento básico de conceptos fundamentales de computación
 • Establecer la importancia y ulitidad a los campos de STEM<br>
-• Introducir herramientas y conceptos básicos analíticos 
-• Practicar ejercisios con los paquetes de Python (**pandas, scipy, numpy, matplotlib, statsmodels**)
+• Introducir herramientas y conceptos básicos analíticos<br>
+• Ejercicios con los paquetes de Python (**pandas, scipy, numpy, matplotlib, statsmodels**)<br>
 
 ### Día 2: Aplicación de principales fundamentales
 #### Objetivo: Navegar y analizar conjuntos de datos
 • Tipos de datos vs. tipos de análisis <br>
-• Aplicaciones a situaciones realísticas <br>
-•   
+• Introducción a estadísticas<br>
+• Maneras de visualizar datos: una comparación<br>
+•	Ejercicios y ejemplos de visualizaciones gráficas<br>
 
 ### Día 3: Implementar soluciones creativas para problemas de STEM
-#### Objetivo: Implementar soluciones creativas para problemas de STEM
-• Rol   <br>
-•  de <br>
-•  Responsabilidades científicos  
+#### Objetivo: Analizar 
+• Mostrar e interpretar resultados de nuestros analices<br>
+• •	Como comunicar resultados (audiencia, en contexto, y sucinto)<br>
+•	Discutir implicaciones y responsabilidades en contexto de análisis de datos<br>
 
 ---
 
@@ -73,9 +73,8 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 | Recurso | Tipo | Enlace |
 |---------|------|--------|
+| Tutorial: **Notebook Introducción** | Notebook | `docs/Intro_Python.ipynb` |
 | *Python Cheat Sheet* | PDF | <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf> |
-| Tutorial: **NumPy para científicos** | Notebook | `docs/prework_numpy.ipynb` |
-| Artículo corto: **Discontinuous Galerkin Overview** | PDF | `docs/DG_overview.pdf` |
 
 > **Sugerencia:** Revisa al menos materiales de Python.
 
