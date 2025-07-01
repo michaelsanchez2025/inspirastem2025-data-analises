@@ -1,5 +1,5 @@
 <!-- README.md -->
-# InspiraSTEM2025 - Ciencia Computacional y Análisis de Datos 
+# InspiraSTEM 2025 - Ciencia Computacional y Análisis de Datos 
 
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 |------------|---------------------------------------------|
@@ -8,17 +8,17 @@
 
 ---
 
-## Sobre el instructor  
+## Sobre el Instructor  
 Soy analista de datos científicos para el Observatorio Nacional de Radio Astronomía (NRAO) en Charlottesville, Virginia. Saque mi licenciatura y maestría en Física de Texas State University donde investigue una variedad de temas astrofísicas como poblaciones de estrellas jóvenes, fuentes de rayos-X extra-galácticos, radioastronomía de bajo presupuesto, y discos protoplanetarios. Tengo 7 años de experiencia analizando y visualizando datos astrofísicos en Python e instruye tutorías y clases de laboratorio en Física y Astronomía. 
 
 ---
 
-## Descripción del curso  
+## Descripción del Curso  
 Este curso de ciencia de datos está diseñado para proporcionar una comprensión integral de los conceptos y técnicas fundamentales necesarios para **organizar, analizar y interpretar** grandes conjuntos de datos. En este curso, los estudiantes aprenderán estrategias y técnicas para manejar datos usando librerías de **Python (pandas, numpy, matplotlib, scipy, statsmodels)** y realizarán análisis gráficos con los cuales aprenderán maneras para mostrar datos, interpretarlos y tomar decisiones de manera significativa. Con estos objetivos, los participantes podrán reducir grandes conjuntos de datos a información manejable para analizar de forma sucinta.
 
 ---
 
-## Perfil de estudiantes  
+## Perfil de Estudiantes  
 | Requisito | Nivel recomendado |
 |-----------|-------------------|
 | Excel y Python | Básico |
@@ -27,7 +27,7 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ---
 
-## Objetivos generales  
+## Objetivos Generales  
 1. Obtener habilidades intuitivas de programación.
 2. Poder generar scripts para interpretar y analizar datos.
 3. Adquirir conocimientos prácticos sobre paquetes de Python.  
@@ -35,22 +35,22 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ---
 
-## Plan diario y syllabus
+## Plan Diario y Syllabus
 
-### Día 1: Introducción a la analítica de datos 
+### Día 1: Introducción a la Analítica de Datos 
 #### Objetivo: Desarrollar un entendimiento básico de conceptos fundamentales de computación
 • Establecer la importancia y ulitidad a los campos de STEM<br>
 • Introducir herramientas y conceptos básicos analíticos<br>
 • Ejercicios con los paquetes de Python (**pandas, scipy, numpy, matplotlib, statsmodels**)<br>
 
-### Día 2: Aplicación de principales fundamentales
+### Día 2: Aplicación de Principales Fundamentales
 #### Objetivo: Navegar y analizar conjuntos de datos
 • Tipos de datos vs. tipos de análisis <br>
 • Introducción a estadísticas<br>
 • Maneras de visualizar datos: una comparación<br>
 •	Ejercicios y ejemplos de visualizaciones gráficas<br>
 
-### Día 3: Investigar análisis y interpretar soluciones
+### Día 3: Investigar Análisis y Interpretar Soluciones
 #### Objetivo: Mostrar e interpretar resultados de nuestros analices
 • Como interpretar resultados<br>
 • Como comunicar resultados (audiencia, en contexto, y sucinto)<br>
@@ -58,7 +58,7 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ---
 
-## Estructura del repositorio  
+## Estructura del Repositorio  
 
 | Carpeta / archivo | Descripción |
 |-------------------|-------------|
