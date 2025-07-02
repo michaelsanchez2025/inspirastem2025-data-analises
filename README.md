@@ -3,7 +3,7 @@
 
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 |------------|---------------------------------------------|
-| **Fechas** | *Julio 23-25, 2025* |
+| **Fechas** | Julio 23-25, 2025 |
 | **Instructor** | **Michael Sánchez** — masanche@nrao.edu |
 
 ---
@@ -37,24 +37,29 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ## Plan Diario y Syllabus
 
-### Día 1: Introducción a la Analítica de Datos 
+### Día 1: Introducción a la Analítica de Datos
 #### Objetivo: Desarrollar un entendimiento básico de conceptos fundamentales de computación
-• Establecer la importancia y ulitidad a los campos de STEM<br>
-• Introducir herramientas y conceptos básicos analíticos<br>
-• Ejercicios con los paquetes de Python (**pandas, scipy, numpy, matplotlib, statsmodels**)<br>
+- Establecer la importancia y ulitidad del análisis computacional a los campos de STEM<br>
+- Introducir herramientas y conceptos básicos analíticos<br>
+  • Variables, tipos de datos, y estructuras de control (`if`, `for`)<br>
+- Explorar paquetes de Python (**`pandas`, `scipy`, `numpy`, `matplotlib`, `statsmodels`**)<br>
 
-### Día 2: Aplicación de Principales Fundamentales
+### Día 2: Aplicación de Principales Fundamentales con Python
 #### Objetivo: Navegar y analizar conjuntos de datos
-• Tipos de datos vs. tipos de análisis <br>
-• Introducción a estadísticas<br>
-• Maneras de visualizar datos: una comparación<br>
-•	Ejercicios y ejemplos de visualizaciones gráficas<br>
+- Usando `pandas` para analices<br>
+  • Metadata<br>
+  • Limpieza de datos<br>
+- Introducción a visualización de datos con `matplotlib`:<br>
+  • gráficos de barras, histogramas, diagramas de dispersión
+-	Ejercicios y ejemplos de visualizaciones gráficas<br>
 
 ### Día 3: Investigar Análisis y Interpretar Soluciones
 #### Objetivo: Mostrar e interpretar resultados de nuestros analices
-• Como interpretar resultados<br>
-• Como comunicar resultados (audiencia, en contexto, y sucinto)<br>
-•	Discutir implicaciones y responsabilidades en contexto de análisis de datos<br>
+- Introducción a estadísticas<br>
+  • Estadísticas descriptivas: media, mediana, desviación estándar<br>
+  • Correlaciones y relaciones entre variables
+- Interpretando y comunicando resultados (audiencia, en contexto, y sucinto)<br>
+-	Discutir implicaciones y responsabilidades en contexto de análisis de datos<br>
 
 ---
 
