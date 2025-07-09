@@ -39,7 +39,7 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ### Día 1: Introducción a la Analítica de Datos
 #### Objetivo: Desarrollar un entendimiento básico de conceptos fundamentales de computación
-- Establecer la importancia y ulitidad del análisis computacional a los campos de STEM<br>
+- Establecer la importancia y utilidad del análisis computacional a los campos de STEM<br>
 - Introducir herramientas y conceptos básicos analíticos<br>
   • Variables, tipos de datos, y estructuras de control (`if`, `for`)<br>
 - Explorar paquetes de Python (**`pandas`, `scipy`, `numpy`, `matplotlib`, `statsmodels`**)<br>
